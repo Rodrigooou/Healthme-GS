@@ -12,4 +12,4 @@ O emprego do ESP32 neste projeto foi focado na obtenção da temperatura. Consid
 ## Simulação Wokwi
     https://wokwi.com/projects/381973336235753473
 ## Link para vídeo
-    https://youtu.be/FeX4zwRnx0o
+    https://youtu.be/zPQDVQ-JshQ
