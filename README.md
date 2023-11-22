@@ -1,5 +1,9 @@
 # Global Solution
 ## Health-me : Aplicativo Adaptavel de Dieta
+Grupo: 1ESPG
+Matheus Bastazini Zanardi rm:98832
+Rodrigo Fernandes Serafim rm:550816
+
 ## Projeto:
 O projeto Health-me aborda a prevalência alarmante de doenças cardiovasculares no Brasil, destacando a influência significativa dos hábitos alimentares inadequados. Propõe a criação de um aplicativo inovador, também chamado Health-me, dedicado a orientar os usuários na adoção de uma alimentação mais saudável. O aplicativo oferecerá recomendações personalizadas, considerando metas específicas, preferências alimentares e situação financeira do usuário. Além de fornecer orientações nutricionais, o Health-me se diferencia ao incluir sugestões de refeições práticas e deliciosas, promovendo escolhas conscientes. A personalização abrange desde a inclusão de alimentos preferidos até a adaptação do plano alimentar a condições ambientais e atividades físicas, com integração a dispositivos como smartwatches para monitoramento contínuo. O projeto busca não apenas mitigar os riscos cardiovasculares, mas também criar uma plataforma abrangente para a promoção de hábitos alimentares saudáveis, visando uma população mais saudável e consciente.
 
